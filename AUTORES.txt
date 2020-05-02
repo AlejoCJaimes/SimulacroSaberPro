@@ -1,0 +1,23 @@
+|							      |
+|________________________AUTORES______________________________|
+|							      |	
+|/////////////////////					      |
+|///DESARROLLADOR BACKEND                                     |
+|///////////////////                                          |
+|Jhoan Manuel Rangel Mariño                                   |
+|Contacto: jrangel7@udi.edu.co                                |
+|                                                             |
+|/////////////////////                                        |
+|///SISTEMAS DE INFORMACIÓN Y DOCUMENTACIÓN                   |
+|///////////////////                                          |  
+|Juan Camilo Valencia Silva                                   | 
+|contacto: jvalencia2@udi.edu.co                              |
+|                                                             | 
+|/////////////////////                                        |
+|///DISEÑADOR DE BASES DE DATOS Y DESARROLLADOR FRONT END     |
+|///////////////////                                          |
+|Juan Alejandro Carrillo Jaimes                               |
+|contacto: jcarrillo13@udi.edu.co                             |
+|                                                             |
+|© copyright 2019                                             |
+|_____________________________________________________________|
