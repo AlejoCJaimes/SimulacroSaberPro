@@ -1,0 +1,401 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{45D8000A-8563-4406-A28A-64235D877E37}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>SimulacroSaberPro</RootNamespace>
+    <AssemblyName>SimulacroSaberPro</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=8.0.17.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Conexion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CRUD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAdministrador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAdministrador.Designer.cs">
+      <DependentUpon>frmAdministrador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCargando.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCargando.Designer.cs">
+      <DependentUpon>frmCargando.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmContexto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmContexto.Designer.cs">
+      <DependentUpon>frmContexto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDocente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDocente.Designer.cs">
+      <DependentUpon>frmDocente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEditarAdministrador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEditarAdministrador.Designer.cs">
+      <DependentUpon>frmEditarAdministrador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEditarPerfilDocente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEditarPerfilDocente.Designer.cs">
+      <DependentUpon>frmEditarPerfilDocente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEditarPregunta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEditarPregunta.Designer.cs">
+      <DependentUpon>frmEditarPregunta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEliminarDocente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEliminarDocente.Designer.cs">
+      <DependentUpon>frmEliminarDocente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEditarEstudiante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEditarEstudiante.Designer.cs">
+      <DependentUpon>frmEditarEstudiante.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEliminarAdministrador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEliminarAdministrador.Designer.cs">
+      <DependentUpon>frmEliminarAdministrador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEditarDocente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEditarDocente.Designer.cs">
+      <DependentUpon>frmEditarDocente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEliminarEstudiante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEliminarEstudiante.Designer.cs">
+      <DependentUpon>frmEliminarEstudiante.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEliminarPregunta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEliminarPregunta.Designer.cs">
+      <DependentUpon>frmEliminarPregunta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEstudiante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEstudiante.Designer.cs">
+      <DependentUpon>frmEstudiante.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEstudianteEditarPerfil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEstudianteEditarPerfil.Designer.cs">
+      <DependentUpon>frmEstudianteEditarPerfil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmIniciarSesion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmIniciarSesion.Designer.cs">
+      <DependentUpon>frmIniciarSesion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmOlvidoPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOlvidoPassword.Designer.cs">
+      <DependentUpon>frmOlvidoPassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPresentarPrueba.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPresentarPrueba.Designer.cs">
+      <DependentUpon>frmPresentarPrueba.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRegistrarAdministrador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRegistrarAdministrador.Designer.cs">
+      <DependentUpon>frmRegistrarAdministrador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRegistrarDocente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRegistrarDocente.Designer.cs">
+      <DependentUpon>frmRegistrarDocente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRegistrarPregunta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRegistrarPregunta.Designer.cs">
+      <DependentUpon>frmRegistrarPregunta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRegistrarPrueba.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRegistrarPrueba.Designer.cs">
+      <DependentUpon>frmRegistrarPrueba.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRegistrarEstudiante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRegistrarEstudiante.Designer.cs">
+      <DependentUpon>frmRegistrarEstudiante.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmReporteDocente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReporteDocente.Designer.cs">
+      <DependentUpon>frmReporteDocente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmResulEstuPrueba.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmResulEstuPrueba.Designer.cs">
+      <DependentUpon>frmResulEstuPrueba.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmResultados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmResultados.Designer.cs">
+      <DependentUpon>frmResultados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmResultadosPrueba.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmResultadosPrueba.Designer.cs">
+      <DependentUpon>frmResultadosPrueba.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSeleccionarPrueba.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSeleccionarPrueba.Designer.cs">
+      <DependentUpon>frmSeleccionarPrueba.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Utilidades.cs" />
+    <EmbeddedResource Include="Conexion.resx">
+      <DependentUpon>Conexion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CRUD.resx">
+      <DependentUpon>CRUD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAdministrador.resx">
+      <DependentUpon>frmAdministrador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCargando.resx">
+      <DependentUpon>frmCargando.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmContexto.resx">
+      <DependentUpon>frmContexto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDocente.resx">
+      <DependentUpon>frmDocente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEditarAdministrador.resx">
+      <DependentUpon>frmEditarAdministrador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEditarPerfilDocente.resx">
+      <DependentUpon>frmEditarPerfilDocente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEditarPregunta.resx">
+      <DependentUpon>frmEditarPregunta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEliminarDocente.resx">
+      <DependentUpon>frmEliminarDocente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEditarEstudiante.resx">
+      <DependentUpon>frmEditarEstudiante.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEliminarAdministrador.resx">
+      <DependentUpon>frmEliminarAdministrador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEditarDocente.resx">
+      <DependentUpon>frmEditarDocente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEliminarEstudiante.resx">
+      <DependentUpon>frmEliminarEstudiante.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEliminarPregunta.resx">
+      <DependentUpon>frmEliminarPregunta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEstudiante.resx">
+      <DependentUpon>frmEstudiante.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEstudianteEditarPerfil.resx">
+      <DependentUpon>frmEstudianteEditarPerfil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmIniciarSesion.resx">
+      <DependentUpon>frmIniciarSesion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmOlvidoPassword.resx">
+      <DependentUpon>frmOlvidoPassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPresentarPrueba.resx">
+      <DependentUpon>frmPresentarPrueba.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRegistrarAdministrador.resx">
+      <DependentUpon>frmRegistrarAdministrador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRegistrarDocente.resx">
+      <DependentUpon>frmRegistrarDocente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRegistrarPregunta.resx">
+      <DependentUpon>frmRegistrarPregunta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRegistrarPrueba.resx">
+      <DependentUpon>frmRegistrarPrueba.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRegistrarEstudiante.resx">
+      <DependentUpon>frmRegistrarEstudiante.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReporteDocente.resx">
+      <DependentUpon>frmReporteDocente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmResulEstuPrueba.resx">
+      <DependentUpon>frmResulEstuPrueba.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmResultados.resx">
+      <DependentUpon>frmResultados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmResultadosPrueba.resx">
+      <DependentUpon>frmResultadosPrueba.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSeleccionarPrueba.resx">
+      <DependentUpon>frmSeleccionarPrueba.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="img\cerrar.png" />
+    <Content Include="img\minimizar.png" />
+    <Content Include="img\usuario.png" />
+    <None Include="Resources\buscar.png" />
+    <None Include="Resources\fondoud1i.png" />
+    <None Include="Resources\fondoudi.JPG" />
+    <None Include="Resources\docentePostLogin.png" />
+    <None Include="Resources\estudiantePostLogin.png" />
+    <None Include="Resources\calificacion.png" />
+    <None Include="Resources\pruPresentadas.png" />
+    <None Include="Resources\resulEstu.png" />
+    <None Include="Resources\logoUdiNaranja.png" />
+    <None Include="Resources\ingles.png" />
+    <None Include="Resources\comCiu.png" />
+    <None Include="Resources\mate.png" />
+    <None Include="Resources\lecCritica.png" />
+    <None Include="Resources\pregunta.png" />
+    <None Include="Resources\eliminarPregunta.png" />
+    <None Include="Resources\editarPregunta.png" />
+    <None Include="Resources\cargando1.gif" />
+    <None Include="Resources\cargando.gif" />
+    <None Include="Resources\udi %282%29.png" />
+    <None Include="Resources\cerrarsesion.png" />
+    <None Include="Resources\contexto.png" />
+    <None Include="Resources\editar.png" />
+    <None Include="Resources\resultados.png" />
+    <None Include="Resources\prueba.png" />
+    <None Include="Resources\usuario blanco.png" />
+    <None Include="Resources\universidad.jpg" />
+    <None Include="Resources\info.png" />
+    <None Include="Resources\lista.png" />
+    <None Include="Resources\atras1.png" />
+    <None Include="Resources\herramientas.png" />
+    <None Include="Resources\test.png" />
+    <None Include="Resources\profesora.png" />
+    <None Include="Resources\estudiante.png" />
+    <None Include="Resources\administrador.png" />
+    <None Include="Resources\apagar.png" />
+    <None Include="Resources\cerrar1.png" />
+    <None Include="Resources\minimizar1.png" />
+    <None Include="Resources\advertencia.png" />
+    <None Include="Resources\candado.png" />
+    <None Include="Resources\usuario.png" />
+    <None Include="Resources\textoUdi.png" />
+    <None Include="Resources\social.png" />
+    <None Include="Resources\logoUDi.png" />
+    <None Include="Resources\atras.png" />
+    <None Include="Resources\adelante.png" />
+    <None Include="Resources\logo1.png" />
+    <None Include="Resources\logo.png" />
+    <None Include="Resources\minimizar.png" />
+    <None Include="Resources\cerrar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CapaLogicaNegocios\CapaLogicaNegocios.csproj">
+      <Project>{04ba48c4-48d2-4a0c-81bc-8244415d52c1}</Project>
+      <Name>CapaLogicaNegocios</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

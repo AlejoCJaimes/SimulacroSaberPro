@@ -1,0 +1,368 @@
+C:\Users\RangelMariño\source\repos\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\SimulacroSaberPro.exe.config
+C:\Users\RangelMariño\source\repos\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\SimulacroSaberPro.exe
+C:\Users\RangelMariño\source\repos\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\SimulacroSaberPro.pdb
+C:\Users\RangelMariño\source\repos\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.csprojAssemblyReference.cache
+C:\Users\RangelMariño\source\repos\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.Properties.Resources.resources
+C:\Users\RangelMariño\source\repos\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.csproj.GenerateResource.cache
+C:\Users\RangelMariño\source\repos\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.exe
+C:\Users\RangelMariño\source\repos\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.pdb
+C:\Users\RangelMariño\source\repos\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmOlvidoPassword.resources
+D:\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.csprojAssemblyReference.cache
+D:\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmOlvidoPassword.resources
+D:\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmPrueba.resources
+D:\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.Properties.Resources.resources
+D:\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.csproj.GenerateResource.cache
+D:\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.csproj.CoreCompileInputs.cache
+D:\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.exe
+D:\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.pdb
+D:\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\SimulacroSaberPro.exe.config
+D:\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\SimulacroSaberPro.exe
+D:\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\SimulacroSaberPro.pdb
+D:\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmIniciarSesion.resources
+C:\Users\RangelMariño\source\repos\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmAdministrador.resources
+C:\Users\RangelMariño\source\repos\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmIniciarSesion.resources
+C:\Users\RangelMariño\source\repos\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmRegistrarEstudiante.resources
+C:\Users\RangelMariño\source\repos\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmDocente.resources
+C:\Users\RangelMariño\source\repos\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmEditarAdministrador.resources
+C:\Users\RangelMariño\source\repos\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmEditarEstudiante.resources
+C:\Users\RangelMariño\source\repos\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmEliminarAdministrador.resources
+C:\Users\RangelMariño\source\repos\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmEliminarEstudiante.resources
+C:\Users\RangelMariño\source\repos\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmEstudiante.resources
+C:\Users\RangelMariño\source\repos\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmRegistrarAdministrador.resources
+C:\Users\RangelMariño\source\repos\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmRegistrarDocente.resources
+C:\Users\RangelMariño\source\repos\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmRegistrarPrueba.resources
+C:\Users\RangelMariño\source\repos\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmEliminarDocente.resources
+C:\Users\RangelMariño\source\repos\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmEditarDocente.resources
+C:\Users\RangelMariño\source\repos\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\CapaLogicaNegocios.dll
+C:\Users\RangelMariño\source\repos\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\CapaLogicaNegocios.pdb
+C:\Users\RangelMariño\source\repos\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.csproj.CopyComplete
+C:\Users\RangelMariño\source\repos\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\MySql.Data.dll
+C:\Users\RangelMariño\source\repos\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\Google.Protobuf.dll
+C:\Users\RangelMariño\source\repos\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\Renci.SshNet.dll
+C:\Users\RangelMariño\source\repos\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\RangelMariño\source\repos\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\MySql.Data.xml
+D:\Proyecto\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\SimulacroSaberPro.exe.config
+D:\Proyecto\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\SimulacroSaberPro.exe
+D:\Proyecto\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\SimulacroSaberPro.pdb
+D:\Proyecto\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\CapaLogicaNegocios.dll
+D:\Proyecto\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\Google.Protobuf.dll
+D:\Proyecto\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\Renci.SshNet.dll
+D:\Proyecto\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\BouncyCastle.Crypto.dll
+D:\Proyecto\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\CapaLogicaNegocios.pdb
+D:\Proyecto\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\MySql.Data.xml
+D:\Proyecto\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.csprojAssemblyReference.cache
+D:\Proyecto\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmAdministrador.resources
+D:\Proyecto\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmDocente.resources
+D:\Proyecto\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmEditarAdministrador.resources
+D:\Proyecto\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmEliminarDocente.resources
+D:\Proyecto\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmEditarEstudiante.resources
+D:\Proyecto\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmEliminarAdministrador.resources
+D:\Proyecto\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmEditarDocente.resources
+D:\Proyecto\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmEliminarEstudiante.resources
+D:\Proyecto\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmEstudiante.resources
+D:\Proyecto\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmIniciarSesion.resources
+D:\Proyecto\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmOlvidoPassword.resources
+D:\Proyecto\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmRegistrarAdministrador.resources
+D:\Proyecto\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmRegistrarDocente.resources
+D:\Proyecto\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmRegistrarPrueba.resources
+D:\Proyecto\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmRegistrarEstudiante.resources
+D:\Proyecto\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.Properties.Resources.resources
+D:\Proyecto\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.csproj.GenerateResource.cache
+D:\Proyecto\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.csproj.CoreCompileInputs.cache
+D:\Proyecto\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.csproj.CopyComplete
+D:\Proyecto\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.exe
+D:\Proyecto\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.pdb
+D:\Proyecto\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmRegistrarPregunta.resources
+C:\Users\RangelMariño\source\repos\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmRegistrarPregunta.resources
+C:\Users\RangelMariño\source\repos\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmEditarPregunta.resources
+C:\Users\RangelMariño\source\repos\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmEliminarPregunta.resources
+C:\Users\RangelMariño\source\repos\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\CapaDatos.dll
+C:\Users\RangelMariño\source\repos\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\CapaDatos.pdb
+C:\Users\RangelMariño\source\repos\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmEstudianteEditarPerfil.resources
+C:\Users\RangelMariño\source\repos\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmSeleccionarPrueba.resources
+C:\Users\RangelMariño\source\repos\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmResultadosPrueba.resources
+C:\Users\RangelMariño\source\repos\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmPresentarPrueba.resources
+C:\Users\RangelMariño\source\repos\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmCargando.resources
+C:\Users\RangelMariño\source\repos\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmContexto.resources
+C:\Users\RangelMariño\source\repos\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmReporteDocente.resources
+C:\Users\RangelMariño\source\repos\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmResulEstuPrueba.resources
+C:\Users\RangelMariño\source\repos\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmResultados.resources
+D:\DATOS DEL SISTEMA\Desktop\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\SimulacroSaberPro.exe.config
+D:\DATOS DEL SISTEMA\Desktop\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\SimulacroSaberPro.exe
+D:\DATOS DEL SISTEMA\Desktop\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\SimulacroSaberPro.pdb
+D:\DATOS DEL SISTEMA\Desktop\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\CapaLogicaNegocios.dll
+D:\DATOS DEL SISTEMA\Desktop\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\CapaDatos.dll
+D:\DATOS DEL SISTEMA\Desktop\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\Google.Protobuf.dll
+D:\DATOS DEL SISTEMA\Desktop\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\Renci.SshNet.dll
+D:\DATOS DEL SISTEMA\Desktop\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\BouncyCastle.Crypto.dll
+D:\DATOS DEL SISTEMA\Desktop\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\CapaLogicaNegocios.pdb
+D:\DATOS DEL SISTEMA\Desktop\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\MySql.Data.xml
+D:\DATOS DEL SISTEMA\Desktop\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\CapaDatos.pdb
+D:\DATOS DEL SISTEMA\Desktop\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.csprojAssemblyReference.cache
+D:\DATOS DEL SISTEMA\Desktop\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmAdministrador.resources
+D:\DATOS DEL SISTEMA\Desktop\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmCargando.resources
+D:\DATOS DEL SISTEMA\Desktop\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmContexto.resources
+D:\DATOS DEL SISTEMA\Desktop\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmDocente.resources
+D:\DATOS DEL SISTEMA\Desktop\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmEditarAdministrador.resources
+D:\DATOS DEL SISTEMA\Desktop\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmEditarPregunta.resources
+D:\DATOS DEL SISTEMA\Desktop\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmEliminarDocente.resources
+D:\DATOS DEL SISTEMA\Desktop\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmEditarEstudiante.resources
+D:\DATOS DEL SISTEMA\Desktop\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmEliminarAdministrador.resources
+D:\DATOS DEL SISTEMA\Desktop\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmEditarDocente.resources
+D:\DATOS DEL SISTEMA\Desktop\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmEliminarEstudiante.resources
+D:\DATOS DEL SISTEMA\Desktop\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmEliminarPregunta.resources
+D:\DATOS DEL SISTEMA\Desktop\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmEstudiante.resources
+D:\DATOS DEL SISTEMA\Desktop\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmEstudianteEditarPerfil.resources
+D:\DATOS DEL SISTEMA\Desktop\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmIniciarSesion.resources
+D:\DATOS DEL SISTEMA\Desktop\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmOlvidoPassword.resources
+D:\DATOS DEL SISTEMA\Desktop\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmPresentarPrueba.resources
+D:\DATOS DEL SISTEMA\Desktop\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmRegistrarAdministrador.resources
+D:\DATOS DEL SISTEMA\Desktop\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmRegistrarDocente.resources
+D:\DATOS DEL SISTEMA\Desktop\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmRegistrarPregunta.resources
+D:\DATOS DEL SISTEMA\Desktop\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmRegistrarPrueba.resources
+D:\DATOS DEL SISTEMA\Desktop\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmRegistrarEstudiante.resources
+D:\DATOS DEL SISTEMA\Desktop\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmReporteDocente.resources
+D:\DATOS DEL SISTEMA\Desktop\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmResulEstuPrueba.resources
+D:\DATOS DEL SISTEMA\Desktop\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmResultados.resources
+D:\DATOS DEL SISTEMA\Desktop\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmResultadosPrueba.resources
+D:\DATOS DEL SISTEMA\Desktop\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmSeleccionarPrueba.resources
+D:\DATOS DEL SISTEMA\Desktop\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.Properties.Resources.resources
+D:\DATOS DEL SISTEMA\Desktop\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.csproj.GenerateResource.cache
+D:\DATOS DEL SISTEMA\Desktop\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.csproj.CopyComplete
+D:\DATOS DEL SISTEMA\Desktop\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.exe
+D:\DATOS DEL SISTEMA\Desktop\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.pdb
+D:\DATOS DEL SISTEMA\Desktop\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.CRUD.resources
+D:\DATOS DEL SISTEMA\Desktop\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmEditarPerfilDocente.resources
+D:\Proyecto\FINAL\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.csprojAssemblyReference.cache
+D:\Proyecto\FINAL\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.CRUD.resources
+D:\Proyecto\FINAL\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmAdministrador.resources
+D:\Proyecto\FINAL\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmCargando.resources
+D:\Proyecto\FINAL\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmContexto.resources
+D:\Proyecto\FINAL\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmDocente.resources
+D:\Proyecto\FINAL\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmEditarAdministrador.resources
+D:\Proyecto\FINAL\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmEditarPerfilDocente.resources
+D:\Proyecto\FINAL\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmEditarPregunta.resources
+D:\Proyecto\FINAL\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmEliminarDocente.resources
+D:\Proyecto\FINAL\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmEditarEstudiante.resources
+D:\Proyecto\FINAL\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmEliminarAdministrador.resources
+D:\Proyecto\FINAL\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmEditarDocente.resources
+D:\Proyecto\FINAL\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmEliminarEstudiante.resources
+D:\Proyecto\FINAL\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmEliminarPregunta.resources
+D:\Proyecto\FINAL\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmEstudiante.resources
+D:\Proyecto\FINAL\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmEstudianteEditarPerfil.resources
+D:\Proyecto\FINAL\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmIniciarSesion.resources
+D:\Proyecto\FINAL\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmOlvidoPassword.resources
+D:\Proyecto\FINAL\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmPresentarPrueba.resources
+D:\Proyecto\FINAL\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmRegistrarAdministrador.resources
+D:\Proyecto\FINAL\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmRegistrarDocente.resources
+D:\Proyecto\FINAL\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmRegistrarPregunta.resources
+D:\Proyecto\FINAL\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmRegistrarPrueba.resources
+D:\Proyecto\FINAL\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmRegistrarEstudiante.resources
+D:\Proyecto\FINAL\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmReporteDocente.resources
+D:\Proyecto\FINAL\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmResulEstuPrueba.resources
+D:\Proyecto\FINAL\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmResultados.resources
+D:\Proyecto\FINAL\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmResultadosPrueba.resources
+D:\Proyecto\FINAL\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmSeleccionarPrueba.resources
+D:\Proyecto\FINAL\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.Properties.Resources.resources
+D:\Proyecto\FINAL\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.csproj.GenerateResource.cache
+D:\Proyecto\FINAL\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.csproj.CoreCompileInputs.cache
+D:\Proyecto\FINAL\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.exe
+D:\Proyecto\FINAL\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.pdb
+D:\Proyecto\FINAL\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\SimulacroSaberPro.exe.config
+D:\Proyecto\FINAL\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\SimulacroSaberPro.exe
+D:\Proyecto\FINAL\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\SimulacroSaberPro.pdb
+D:\Proyecto\FINAL\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\CapaLogicaNegocios.dll
+D:\Proyecto\FINAL\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\CapaDatos.dll
+D:\Proyecto\FINAL\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\Google.Protobuf.dll
+D:\Proyecto\FINAL\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\Renci.SshNet.dll
+D:\Proyecto\FINAL\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\BouncyCastle.Crypto.dll
+D:\Proyecto\FINAL\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\CapaLogicaNegocios.pdb
+D:\Proyecto\FINAL\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\MySql.Data.xml
+D:\Proyecto\FINAL\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\CapaDatos.pdb
+D:\Proyecto\FINAL\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.csproj.CopyComplete
+D:\Camilo Valencia\Ultimo\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\SimulacroSaberPro.exe.config
+D:\Camilo Valencia\Ultimo\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\SimulacroSaberPro.exe
+D:\Camilo Valencia\Ultimo\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\SimulacroSaberPro.pdb
+D:\Camilo Valencia\Ultimo\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\CapaLogicaNegocios.dll
+D:\Camilo Valencia\Ultimo\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\MySql.Data.dll
+D:\Camilo Valencia\Ultimo\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\CapaDatos.dll
+D:\Camilo Valencia\Ultimo\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\Google.Protobuf.dll
+D:\Camilo Valencia\Ultimo\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\Renci.SshNet.dll
+D:\Camilo Valencia\Ultimo\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\BouncyCastle.Crypto.dll
+D:\Camilo Valencia\Ultimo\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\CapaLogicaNegocios.pdb
+D:\Camilo Valencia\Ultimo\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\MySql.Data.xml
+D:\Camilo Valencia\Ultimo\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\CapaDatos.pdb
+D:\Camilo Valencia\Ultimo\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.csprojAssemblyReference.cache
+D:\Camilo Valencia\Ultimo\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.CRUD.resources
+D:\Camilo Valencia\Ultimo\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmAdministrador.resources
+D:\Camilo Valencia\Ultimo\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmCargando.resources
+D:\Camilo Valencia\Ultimo\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmContexto.resources
+D:\Camilo Valencia\Ultimo\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmDocente.resources
+D:\Camilo Valencia\Ultimo\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmEditarAdministrador.resources
+D:\Camilo Valencia\Ultimo\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmEditarPerfilDocente.resources
+D:\Camilo Valencia\Ultimo\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmEditarPregunta.resources
+D:\Camilo Valencia\Ultimo\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmEliminarDocente.resources
+D:\Camilo Valencia\Ultimo\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmEditarEstudiante.resources
+D:\Camilo Valencia\Ultimo\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmEliminarAdministrador.resources
+D:\Camilo Valencia\Ultimo\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmEditarDocente.resources
+D:\Camilo Valencia\Ultimo\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmEliminarEstudiante.resources
+D:\Camilo Valencia\Ultimo\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmEliminarPregunta.resources
+D:\Camilo Valencia\Ultimo\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmEstudiante.resources
+D:\Camilo Valencia\Ultimo\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmEstudianteEditarPerfil.resources
+D:\Camilo Valencia\Ultimo\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmIniciarSesion.resources
+D:\Camilo Valencia\Ultimo\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmOlvidoPassword.resources
+D:\Camilo Valencia\Ultimo\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmPresentarPrueba.resources
+D:\Camilo Valencia\Ultimo\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmRegistrarAdministrador.resources
+D:\Camilo Valencia\Ultimo\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmRegistrarDocente.resources
+D:\Camilo Valencia\Ultimo\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmRegistrarPregunta.resources
+D:\Camilo Valencia\Ultimo\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmRegistrarPrueba.resources
+D:\Camilo Valencia\Ultimo\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmRegistrarEstudiante.resources
+D:\Camilo Valencia\Ultimo\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmReporteDocente.resources
+D:\Camilo Valencia\Ultimo\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmResulEstuPrueba.resources
+D:\Camilo Valencia\Ultimo\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmResultados.resources
+D:\Camilo Valencia\Ultimo\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmResultadosPrueba.resources
+D:\Camilo Valencia\Ultimo\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmSeleccionarPrueba.resources
+D:\Camilo Valencia\Ultimo\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.Properties.Resources.resources
+D:\Camilo Valencia\Ultimo\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.csproj.GenerateResource.cache
+D:\Camilo Valencia\Ultimo\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.csproj.CopyComplete
+D:\Camilo Valencia\Ultimo\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.exe
+D:\Camilo Valencia\Ultimo\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.pdb
+D:\DATOS DEL SISTEMA\Desktop\PROYECTO INTEGRADOR\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\SimulacroSaberPro.exe.config
+D:\DATOS DEL SISTEMA\Desktop\PROYECTO INTEGRADOR\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\SimulacroSaberPro.exe
+D:\DATOS DEL SISTEMA\Desktop\PROYECTO INTEGRADOR\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\SimulacroSaberPro.pdb
+D:\DATOS DEL SISTEMA\Desktop\PROYECTO INTEGRADOR\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\CapaLogicaNegocios.dll
+D:\DATOS DEL SISTEMA\Desktop\PROYECTO INTEGRADOR\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\CapaDatos.dll
+D:\DATOS DEL SISTEMA\Desktop\PROYECTO INTEGRADOR\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\Google.Protobuf.dll
+D:\DATOS DEL SISTEMA\Desktop\PROYECTO INTEGRADOR\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\Renci.SshNet.dll
+D:\DATOS DEL SISTEMA\Desktop\PROYECTO INTEGRADOR\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\BouncyCastle.Crypto.dll
+D:\DATOS DEL SISTEMA\Desktop\PROYECTO INTEGRADOR\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\CapaLogicaNegocios.pdb
+D:\DATOS DEL SISTEMA\Desktop\PROYECTO INTEGRADOR\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\MySql.Data.xml
+D:\DATOS DEL SISTEMA\Desktop\PROYECTO INTEGRADOR\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\CapaDatos.pdb
+D:\DATOS DEL SISTEMA\Desktop\PROYECTO INTEGRADOR\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.csprojAssemblyReference.cache
+D:\DATOS DEL SISTEMA\Desktop\PROYECTO INTEGRADOR\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.CRUD.resources
+D:\DATOS DEL SISTEMA\Desktop\PROYECTO INTEGRADOR\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmAdministrador.resources
+D:\DATOS DEL SISTEMA\Desktop\PROYECTO INTEGRADOR\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmCargando.resources
+D:\DATOS DEL SISTEMA\Desktop\PROYECTO INTEGRADOR\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmContexto.resources
+D:\DATOS DEL SISTEMA\Desktop\PROYECTO INTEGRADOR\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmDocente.resources
+D:\DATOS DEL SISTEMA\Desktop\PROYECTO INTEGRADOR\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmEditarAdministrador.resources
+D:\DATOS DEL SISTEMA\Desktop\PROYECTO INTEGRADOR\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmEditarPerfilDocente.resources
+D:\DATOS DEL SISTEMA\Desktop\PROYECTO INTEGRADOR\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmEditarPregunta.resources
+D:\DATOS DEL SISTEMA\Desktop\PROYECTO INTEGRADOR\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmEliminarDocente.resources
+D:\DATOS DEL SISTEMA\Desktop\PROYECTO INTEGRADOR\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmEditarEstudiante.resources
+D:\DATOS DEL SISTEMA\Desktop\PROYECTO INTEGRADOR\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmEliminarAdministrador.resources
+D:\DATOS DEL SISTEMA\Desktop\PROYECTO INTEGRADOR\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmEditarDocente.resources
+D:\DATOS DEL SISTEMA\Desktop\PROYECTO INTEGRADOR\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmEliminarEstudiante.resources
+D:\DATOS DEL SISTEMA\Desktop\PROYECTO INTEGRADOR\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmEliminarPregunta.resources
+D:\DATOS DEL SISTEMA\Desktop\PROYECTO INTEGRADOR\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmEstudiante.resources
+D:\DATOS DEL SISTEMA\Desktop\PROYECTO INTEGRADOR\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmEstudianteEditarPerfil.resources
+D:\DATOS DEL SISTEMA\Desktop\PROYECTO INTEGRADOR\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmIniciarSesion.resources
+D:\DATOS DEL SISTEMA\Desktop\PROYECTO INTEGRADOR\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmOlvidoPassword.resources
+D:\DATOS DEL SISTEMA\Desktop\PROYECTO INTEGRADOR\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmPresentarPrueba.resources
+D:\DATOS DEL SISTEMA\Desktop\PROYECTO INTEGRADOR\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmRegistrarAdministrador.resources
+D:\DATOS DEL SISTEMA\Desktop\PROYECTO INTEGRADOR\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmRegistrarDocente.resources
+D:\DATOS DEL SISTEMA\Desktop\PROYECTO INTEGRADOR\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmRegistrarPregunta.resources
+D:\DATOS DEL SISTEMA\Desktop\PROYECTO INTEGRADOR\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmRegistrarPrueba.resources
+D:\DATOS DEL SISTEMA\Desktop\PROYECTO INTEGRADOR\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmRegistrarEstudiante.resources
+D:\DATOS DEL SISTEMA\Desktop\PROYECTO INTEGRADOR\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmReporteDocente.resources
+D:\DATOS DEL SISTEMA\Desktop\PROYECTO INTEGRADOR\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmResulEstuPrueba.resources
+D:\DATOS DEL SISTEMA\Desktop\PROYECTO INTEGRADOR\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmResultados.resources
+D:\DATOS DEL SISTEMA\Desktop\PROYECTO INTEGRADOR\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmResultadosPrueba.resources
+D:\DATOS DEL SISTEMA\Desktop\PROYECTO INTEGRADOR\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmSeleccionarPrueba.resources
+D:\DATOS DEL SISTEMA\Desktop\PROYECTO INTEGRADOR\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.Properties.Resources.resources
+D:\DATOS DEL SISTEMA\Desktop\PROYECTO INTEGRADOR\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.csproj.GenerateResource.cache
+D:\DATOS DEL SISTEMA\Desktop\PROYECTO INTEGRADOR\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.csproj.CopyComplete
+D:\DATOS DEL SISTEMA\Desktop\PROYECTO INTEGRADOR\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.exe
+D:\DATOS DEL SISTEMA\Desktop\PROYECTO INTEGRADOR\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.pdb
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\SimulacroSaberPro.exe.config
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\SimulacroSaberPro.exe
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\SimulacroSaberPro.pdb
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\CapaLogicaNegocios.dll
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\CapaDatos.dll
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\Google.Protobuf.dll
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\Renci.SshNet.dll
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\BouncyCastle.Crypto.dll
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\CapaLogicaNegocios.pdb
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\MySql.Data.xml
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\CapaDatos.pdb
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.csprojAssemblyReference.cache
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.CRUD.resources
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmAdministrador.resources
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmCargando.resources
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmContexto.resources
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmDocente.resources
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmEditarAdministrador.resources
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmEditarPerfilDocente.resources
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmEditarPregunta.resources
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmEliminarDocente.resources
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmEditarEstudiante.resources
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmEliminarAdministrador.resources
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmEditarDocente.resources
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmEliminarEstudiante.resources
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmEliminarPregunta.resources
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmEstudiante.resources
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmEstudianteEditarPerfil.resources
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmIniciarSesion.resources
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmOlvidoPassword.resources
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmPresentarPrueba.resources
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmRegistrarAdministrador.resources
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmRegistrarDocente.resources
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmRegistrarPregunta.resources
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmRegistrarPrueba.resources
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmRegistrarEstudiante.resources
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmReporteDocente.resources
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmResulEstuPrueba.resources
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmResultados.resources
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmResultadosPrueba.resources
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmSeleccionarPrueba.resources
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.Properties.Resources.resources
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.csproj.GenerateResource.cache
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.csproj.CopyComplete
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.exe
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.pdb
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PIntegrador 21.11.2019\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\SimulacroSaberPro.exe.config
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PIntegrador 21.11.2019\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\SimulacroSaberPro.exe
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PIntegrador 21.11.2019\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\SimulacroSaberPro.pdb
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PIntegrador 21.11.2019\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\CapaLogicaNegocios.dll
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PIntegrador 21.11.2019\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\CapaDatos.dll
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PIntegrador 21.11.2019\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\Google.Protobuf.dll
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PIntegrador 21.11.2019\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\Renci.SshNet.dll
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PIntegrador 21.11.2019\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\BouncyCastle.Crypto.dll
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PIntegrador 21.11.2019\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\CapaLogicaNegocios.pdb
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PIntegrador 21.11.2019\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\MySql.Data.xml
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PIntegrador 21.11.2019\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\bin\Debug\CapaDatos.pdb
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PIntegrador 21.11.2019\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.csprojAssemblyReference.cache
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PIntegrador 21.11.2019\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.Conexion.resources
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PIntegrador 21.11.2019\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.CRUD.resources
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PIntegrador 21.11.2019\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmAdministrador.resources
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PIntegrador 21.11.2019\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmCargando.resources
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PIntegrador 21.11.2019\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmContexto.resources
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PIntegrador 21.11.2019\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmDocente.resources
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PIntegrador 21.11.2019\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmEditarAdministrador.resources
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PIntegrador 21.11.2019\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmEditarPerfilDocente.resources
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PIntegrador 21.11.2019\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmEditarPregunta.resources
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PIntegrador 21.11.2019\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmEliminarDocente.resources
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PIntegrador 21.11.2019\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmEditarEstudiante.resources
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PIntegrador 21.11.2019\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmEliminarAdministrador.resources
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PIntegrador 21.11.2019\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmEditarDocente.resources
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PIntegrador 21.11.2019\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmEliminarEstudiante.resources
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PIntegrador 21.11.2019\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmEliminarPregunta.resources
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PIntegrador 21.11.2019\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmEstudiante.resources
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PIntegrador 21.11.2019\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmEstudianteEditarPerfil.resources
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PIntegrador 21.11.2019\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmIniciarSesion.resources
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PIntegrador 21.11.2019\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmOlvidoPassword.resources
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PIntegrador 21.11.2019\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmPresentarPrueba.resources
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PIntegrador 21.11.2019\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmRegistrarAdministrador.resources
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PIntegrador 21.11.2019\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmRegistrarDocente.resources
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PIntegrador 21.11.2019\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmRegistrarPregunta.resources
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PIntegrador 21.11.2019\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmRegistrarPrueba.resources
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PIntegrador 21.11.2019\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmRegistrarEstudiante.resources
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PIntegrador 21.11.2019\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmReporteDocente.resources
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PIntegrador 21.11.2019\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmResulEstuPrueba.resources
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PIntegrador 21.11.2019\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmResultados.resources
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PIntegrador 21.11.2019\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmResultadosPrueba.resources
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PIntegrador 21.11.2019\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.frmSeleccionarPrueba.resources
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PIntegrador 21.11.2019\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.Properties.Resources.resources
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PIntegrador 21.11.2019\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.csproj.GenerateResource.cache
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PIntegrador 21.11.2019\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.csproj.CopyComplete
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PIntegrador 21.11.2019\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.exe
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PIntegrador 21.11.2019\INSTALACIÓN\SimulacroSaberPro\SimulacroSaberPro\obj\Debug\SimulacroSaberPro.pdb

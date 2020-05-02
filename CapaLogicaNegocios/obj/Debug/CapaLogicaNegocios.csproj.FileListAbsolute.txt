@@ -1,0 +1,70 @@
+C:\Users\RangelMariño\source\repos\SimulacroSaberPro\CapaLogicaNegocios\bin\Debug\CapaLogicaNegocios.dll
+C:\Users\RangelMariño\source\repos\SimulacroSaberPro\CapaLogicaNegocios\bin\Debug\CapaLogicaNegocios.pdb
+C:\Users\RangelMariño\source\repos\SimulacroSaberPro\CapaLogicaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\RangelMariño\source\repos\SimulacroSaberPro\CapaLogicaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\RangelMariño\source\repos\SimulacroSaberPro\CapaLogicaNegocios\obj\Debug\CapaLogicaNegocios.csprojAssemblyReference.cache
+C:\Users\RangelMariño\source\repos\SimulacroSaberPro\CapaLogicaNegocios\obj\Debug\CapaLogicaNegocios.csproj.CopyComplete
+C:\Users\RangelMariño\source\repos\SimulacroSaberPro\CapaLogicaNegocios\obj\Debug\CapaLogicaNegocios.dll
+C:\Users\RangelMariño\source\repos\SimulacroSaberPro\CapaLogicaNegocios\obj\Debug\CapaLogicaNegocios.pdb
+D:\Proyecto\SimulacroSaberPro\CapaLogicaNegocios\bin\Debug\CapaLogicaNegocios.dll
+D:\Proyecto\SimulacroSaberPro\CapaLogicaNegocios\bin\Debug\CapaLogicaNegocios.pdb
+D:\Proyecto\SimulacroSaberPro\CapaLogicaNegocios\bin\Debug\CapaDatos.dll
+D:\Proyecto\SimulacroSaberPro\CapaLogicaNegocios\bin\Debug\CapaDatos.pdb
+D:\Proyecto\SimulacroSaberPro\CapaLogicaNegocios\obj\Debug\CapaLogicaNegocios.csprojAssemblyReference.cache
+D:\Proyecto\SimulacroSaberPro\CapaLogicaNegocios\obj\Debug\CapaLogicaNegocios.csproj.CoreCompileInputs.cache
+D:\Proyecto\SimulacroSaberPro\CapaLogicaNegocios\obj\Debug\CapaLogicaNegocios.csproj.CopyComplete
+D:\Proyecto\SimulacroSaberPro\CapaLogicaNegocios\obj\Debug\CapaLogicaNegocios.dll
+D:\Proyecto\SimulacroSaberPro\CapaLogicaNegocios\obj\Debug\CapaLogicaNegocios.pdb
+C:\Users\RangelMariño\source\repos\SimulacroSaberPro\CapaLogicaNegocios\bin\Debug\MySql.Data.dll
+C:\Users\RangelMariño\source\repos\SimulacroSaberPro\CapaLogicaNegocios\bin\Debug\Google.Protobuf.dll
+C:\Users\RangelMariño\source\repos\SimulacroSaberPro\CapaLogicaNegocios\bin\Debug\Renci.SshNet.dll
+C:\Users\RangelMariño\source\repos\SimulacroSaberPro\CapaLogicaNegocios\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\RangelMariño\source\repos\SimulacroSaberPro\CapaLogicaNegocios\bin\Debug\MySql.Data.xml
+D:\DATOS DEL SISTEMA\Desktop\SimulacroSaberPro\CapaLogicaNegocios\bin\Debug\CapaLogicaNegocios.dll
+D:\DATOS DEL SISTEMA\Desktop\SimulacroSaberPro\CapaLogicaNegocios\bin\Debug\CapaLogicaNegocios.pdb
+D:\DATOS DEL SISTEMA\Desktop\SimulacroSaberPro\CapaLogicaNegocios\bin\Debug\CapaDatos.dll
+D:\DATOS DEL SISTEMA\Desktop\SimulacroSaberPro\CapaLogicaNegocios\bin\Debug\Google.Protobuf.dll
+D:\DATOS DEL SISTEMA\Desktop\SimulacroSaberPro\CapaLogicaNegocios\bin\Debug\Renci.SshNet.dll
+D:\DATOS DEL SISTEMA\Desktop\SimulacroSaberPro\CapaLogicaNegocios\bin\Debug\BouncyCastle.Crypto.dll
+D:\DATOS DEL SISTEMA\Desktop\SimulacroSaberPro\CapaLogicaNegocios\bin\Debug\CapaDatos.pdb
+D:\DATOS DEL SISTEMA\Desktop\SimulacroSaberPro\CapaLogicaNegocios\bin\Debug\MySql.Data.xml
+D:\DATOS DEL SISTEMA\Desktop\SimulacroSaberPro\CapaLogicaNegocios\obj\Debug\CapaLogicaNegocios.csprojAssemblyReference.cache
+D:\DATOS DEL SISTEMA\Desktop\SimulacroSaberPro\CapaLogicaNegocios\obj\Debug\CapaLogicaNegocios.csproj.CopyComplete
+D:\DATOS DEL SISTEMA\Desktop\SimulacroSaberPro\CapaLogicaNegocios\obj\Debug\CapaLogicaNegocios.dll
+D:\DATOS DEL SISTEMA\Desktop\SimulacroSaberPro\CapaLogicaNegocios\obj\Debug\CapaLogicaNegocios.pdb
+D:\DATOS DEL SISTEMA\Desktop\PROYECTO INTEGRADOR\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\CapaLogicaNegocios\bin\Debug\CapaLogicaNegocios.dll
+D:\DATOS DEL SISTEMA\Desktop\PROYECTO INTEGRADOR\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\CapaLogicaNegocios\bin\Debug\CapaLogicaNegocios.pdb
+D:\DATOS DEL SISTEMA\Desktop\PROYECTO INTEGRADOR\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\CapaLogicaNegocios\bin\Debug\CapaDatos.dll
+D:\DATOS DEL SISTEMA\Desktop\PROYECTO INTEGRADOR\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\CapaLogicaNegocios\bin\Debug\Google.Protobuf.dll
+D:\DATOS DEL SISTEMA\Desktop\PROYECTO INTEGRADOR\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\CapaLogicaNegocios\bin\Debug\Renci.SshNet.dll
+D:\DATOS DEL SISTEMA\Desktop\PROYECTO INTEGRADOR\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\CapaLogicaNegocios\bin\Debug\BouncyCastle.Crypto.dll
+D:\DATOS DEL SISTEMA\Desktop\PROYECTO INTEGRADOR\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\CapaLogicaNegocios\bin\Debug\CapaDatos.pdb
+D:\DATOS DEL SISTEMA\Desktop\PROYECTO INTEGRADOR\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\CapaLogicaNegocios\bin\Debug\MySql.Data.xml
+D:\DATOS DEL SISTEMA\Desktop\PROYECTO INTEGRADOR\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\CapaLogicaNegocios\obj\Debug\CapaLogicaNegocios.csprojAssemblyReference.cache
+D:\DATOS DEL SISTEMA\Desktop\PROYECTO INTEGRADOR\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\CapaLogicaNegocios\obj\Debug\CapaLogicaNegocios.csproj.CopyComplete
+D:\DATOS DEL SISTEMA\Desktop\PROYECTO INTEGRADOR\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\CapaLogicaNegocios\obj\Debug\CapaLogicaNegocios.dll
+D:\DATOS DEL SISTEMA\Desktop\PROYECTO INTEGRADOR\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\CapaLogicaNegocios\obj\Debug\CapaLogicaNegocios.pdb
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\CapaLogicaNegocios\bin\Debug\CapaLogicaNegocios.dll
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\CapaLogicaNegocios\bin\Debug\CapaLogicaNegocios.pdb
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\CapaLogicaNegocios\bin\Debug\CapaDatos.dll
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\CapaLogicaNegocios\bin\Debug\Google.Protobuf.dll
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\CapaLogicaNegocios\bin\Debug\Renci.SshNet.dll
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\CapaLogicaNegocios\bin\Debug\BouncyCastle.Crypto.dll
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\CapaLogicaNegocios\bin\Debug\CapaDatos.pdb
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\CapaLogicaNegocios\bin\Debug\MySql.Data.xml
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\CapaLogicaNegocios\obj\Debug\CapaLogicaNegocios.csprojAssemblyReference.cache
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\CapaLogicaNegocios\obj\Debug\CapaLogicaNegocios.csproj.CopyComplete
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\CapaLogicaNegocios\obj\Debug\CapaLogicaNegocios.dll
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\CapaLogicaNegocios\obj\Debug\CapaLogicaNegocios.pdb
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PIntegrador 21.11.2019\INSTALACIÓN\SimulacroSaberPro\CapaLogicaNegocios\bin\Debug\CapaLogicaNegocios.dll
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PIntegrador 21.11.2019\INSTALACIÓN\SimulacroSaberPro\CapaLogicaNegocios\bin\Debug\CapaLogicaNegocios.pdb
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PIntegrador 21.11.2019\INSTALACIÓN\SimulacroSaberPro\CapaLogicaNegocios\bin\Debug\CapaDatos.dll
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PIntegrador 21.11.2019\INSTALACIÓN\SimulacroSaberPro\CapaLogicaNegocios\bin\Debug\Google.Protobuf.dll
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PIntegrador 21.11.2019\INSTALACIÓN\SimulacroSaberPro\CapaLogicaNegocios\bin\Debug\Renci.SshNet.dll
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PIntegrador 21.11.2019\INSTALACIÓN\SimulacroSaberPro\CapaLogicaNegocios\bin\Debug\BouncyCastle.Crypto.dll
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PIntegrador 21.11.2019\INSTALACIÓN\SimulacroSaberPro\CapaLogicaNegocios\bin\Debug\CapaDatos.pdb
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PIntegrador 21.11.2019\INSTALACIÓN\SimulacroSaberPro\CapaLogicaNegocios\bin\Debug\MySql.Data.xml
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PIntegrador 21.11.2019\INSTALACIÓN\SimulacroSaberPro\CapaLogicaNegocios\obj\Debug\CapaLogicaNegocios.csprojAssemblyReference.cache
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PIntegrador 21.11.2019\INSTALACIÓN\SimulacroSaberPro\CapaLogicaNegocios\obj\Debug\CapaLogicaNegocios.csproj.CopyComplete
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PIntegrador 21.11.2019\INSTALACIÓN\SimulacroSaberPro\CapaLogicaNegocios\obj\Debug\CapaLogicaNegocios.dll
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PIntegrador 21.11.2019\INSTALACIÓN\SimulacroSaberPro\CapaLogicaNegocios\obj\Debug\CapaLogicaNegocios.pdb

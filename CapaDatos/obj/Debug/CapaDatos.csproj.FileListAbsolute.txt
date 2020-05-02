@@ -1,0 +1,57 @@
+C:\Users\RangelMariño\source\repos\SimulacroSaberPro\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\RangelMariño\source\repos\SimulacroSaberPro\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\RangelMariño\source\repos\SimulacroSaberPro\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\RangelMariño\source\repos\SimulacroSaberPro\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\RangelMariño\source\repos\SimulacroSaberPro\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\Proyecto\SimulacroSaberPro\CapaDatos\bin\Debug\CapaDatos.dll
+D:\Proyecto\SimulacroSaberPro\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\Proyecto\SimulacroSaberPro\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+D:\Proyecto\SimulacroSaberPro\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\Proyecto\SimulacroSaberPro\CapaDatos\obj\Debug\CapaDatos.dll
+D:\Proyecto\SimulacroSaberPro\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\RangelMariño\source\repos\SimulacroSaberPro\CapaDatos\bin\Debug\MySql.Data.dll
+C:\Users\RangelMariño\source\repos\SimulacroSaberPro\CapaDatos\bin\Debug\Google.Protobuf.dll
+C:\Users\RangelMariño\source\repos\SimulacroSaberPro\CapaDatos\bin\Debug\Renci.SshNet.dll
+C:\Users\RangelMariño\source\repos\SimulacroSaberPro\CapaDatos\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\RangelMariño\source\repos\SimulacroSaberPro\CapaDatos\bin\Debug\MySql.Data.xml
+C:\Users\RangelMariño\source\repos\SimulacroSaberPro\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+D:\DATOS DEL SISTEMA\Desktop\SimulacroSaberPro\CapaDatos\bin\Debug\CapaDatos.dll
+D:\DATOS DEL SISTEMA\Desktop\SimulacroSaberPro\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\DATOS DEL SISTEMA\Desktop\SimulacroSaberPro\CapaDatos\bin\Debug\Google.Protobuf.dll
+D:\DATOS DEL SISTEMA\Desktop\SimulacroSaberPro\CapaDatos\bin\Debug\Renci.SshNet.dll
+D:\DATOS DEL SISTEMA\Desktop\SimulacroSaberPro\CapaDatos\bin\Debug\BouncyCastle.Crypto.dll
+D:\DATOS DEL SISTEMA\Desktop\SimulacroSaberPro\CapaDatos\bin\Debug\MySql.Data.xml
+D:\DATOS DEL SISTEMA\Desktop\SimulacroSaberPro\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+D:\DATOS DEL SISTEMA\Desktop\SimulacroSaberPro\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+D:\DATOS DEL SISTEMA\Desktop\SimulacroSaberPro\CapaDatos\obj\Debug\CapaDatos.dll
+D:\DATOS DEL SISTEMA\Desktop\SimulacroSaberPro\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\DATOS DEL SISTEMA\Desktop\PROYECTO INTEGRADOR\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\CapaDatos\bin\Debug\CapaDatos.dll
+D:\DATOS DEL SISTEMA\Desktop\PROYECTO INTEGRADOR\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\DATOS DEL SISTEMA\Desktop\PROYECTO INTEGRADOR\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\CapaDatos\bin\Debug\Google.Protobuf.dll
+D:\DATOS DEL SISTEMA\Desktop\PROYECTO INTEGRADOR\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\CapaDatos\bin\Debug\Renci.SshNet.dll
+D:\DATOS DEL SISTEMA\Desktop\PROYECTO INTEGRADOR\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\CapaDatos\bin\Debug\BouncyCastle.Crypto.dll
+D:\DATOS DEL SISTEMA\Desktop\PROYECTO INTEGRADOR\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\CapaDatos\bin\Debug\MySql.Data.xml
+D:\DATOS DEL SISTEMA\Desktop\PROYECTO INTEGRADOR\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+D:\DATOS DEL SISTEMA\Desktop\PROYECTO INTEGRADOR\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+D:\DATOS DEL SISTEMA\Desktop\PROYECTO INTEGRADOR\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\CapaDatos\obj\Debug\CapaDatos.dll
+D:\DATOS DEL SISTEMA\Desktop\PROYECTO INTEGRADOR\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\CapaDatos\bin\Debug\CapaDatos.dll
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\CapaDatos\bin\Debug\Google.Protobuf.dll
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\CapaDatos\bin\Debug\Renci.SshNet.dll
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\CapaDatos\bin\Debug\BouncyCastle.Crypto.dll
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\CapaDatos\bin\Debug\MySql.Data.xml
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\CapaDatos\obj\Debug\CapaDatos.dll
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PROYECTO_TERMINADO\ENTREGA PROYECTO\INSTALACIÓN\SimulacroSaberPro\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PIntegrador 21.11.2019\INSTALACIÓN\SimulacroSaberPro\CapaDatos\bin\Debug\CapaDatos.dll
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PIntegrador 21.11.2019\INSTALACIÓN\SimulacroSaberPro\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PIntegrador 21.11.2019\INSTALACIÓN\SimulacroSaberPro\CapaDatos\bin\Debug\Google.Protobuf.dll
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PIntegrador 21.11.2019\INSTALACIÓN\SimulacroSaberPro\CapaDatos\bin\Debug\Renci.SshNet.dll
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PIntegrador 21.11.2019\INSTALACIÓN\SimulacroSaberPro\CapaDatos\bin\Debug\BouncyCastle.Crypto.dll
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PIntegrador 21.11.2019\INSTALACIÓN\SimulacroSaberPro\CapaDatos\bin\Debug\MySql.Data.xml
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PIntegrador 21.11.2019\INSTALACIÓN\SimulacroSaberPro\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PIntegrador 21.11.2019\INSTALACIÓN\SimulacroSaberPro\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PIntegrador 21.11.2019\INSTALACIÓN\SimulacroSaberPro\CapaDatos\obj\Debug\CapaDatos.dll
+D:\DATOS ALEJO\ALEJO\CARRERA\CUARTO SEMESTRE\PROYECTO INTEGRADOR 4TO SEMESTRE+\PIntegrador 21.11.2019\INSTALACIÓN\SimulacroSaberPro\CapaDatos\obj\Debug\CapaDatos.pdb
