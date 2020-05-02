@@ -1,0 +1,173 @@
+CREATE DATABASE  simulacro;
+
+CREATE TABLE Usuarios 
+(
+Id int auto_increment not null,
+Correo varchar (200) not null,
+Clave varchar (200) not null,
+Estado bit not null,
+Rol varchar(20) not null,
+Primary key (id)
+);
+
+
+CREATE TABLE Persona (
+Ident_num varchar(15) not null,
+Tipo_ident varchar(30) not null,
+Nombre varchar (50) not null,
+Apellido varchar(50) not null,
+Titulo varchar (100) not null,
+Estado bit not null,
+idUsuario int not null,
+constraint idUsuario FOREIGN KEY (idUsuario) references Usuarios (id),
+Primary key (ident_num)
+);
+    
+CREATE TABLE Departamento(
+codigo varchar(5) not null,
+nombre varchar(25) not null,
+PRIMARY KEY(codigo)    
+);
+
+CREATE TABLE Ciudad 
+(
+codigo varchar (5) not null,
+nombre varchar(25) not null,
+codDpto varchar (5) not null,
+constraint codDpto foreign key (codDpto) references Departamento (codigo),
+primary key(codigo)
+);
+CREATE TABLE Sede 
+(
+Codigo varchar (5) not null,              
+Nombre varchar (25) not null,
+Dir_numero varchar (100) not null,
+Dir_barrio varchar(100) not null,
+Cod_ciudad varchar(5) not null,
+Constraint cod_ciudad foreign key (cod_ciudad) references Ciudad (codigo),
+Primary key(codigo)
+);
+
+
+CREATE TABLE Facultad
+(
+id int auto_increment not null,
+Nombre varchar(30) not null,
+Primary key (id)
+);
+
+CREATE TABLE Programa 
+(
+Codigo varchar (6) not null,
+Nombre varchar (30) not null,
+codSede varchar (5) not null,
+idFacultad int  not null,
+constraint codSede foreign key (codSede) references Sede (codigo),
+constraint idFacultad foreign key (idFacultad) references Facultad (id),
+primary key (codigo)
+);
+CREATE TABLE Estudiante 
+(
+Ident_num varchar (15) not null,
+Tipo_ident varchar (50) not null,
+Genero varchar (20) not null,
+Nombre varchar (50) not null,
+Apellido varchar (50) not null,
+Fecha_nac date not null,
+Dir_numero varchar (100) not null,
+Dir_barrio varchar(100) not null,
+Teléfono varchar(100) not null,
+codPrograma varchar (6) not null,
+codCiudad varchar (5) not null,
+idUsuario int not null,
+Constraint foreign key (idUsuario) references Usuarios (id),
+Constraint foreign key (codPrograma) references Programa (codigo),
+Constraint foreign key (codCiudad) references Ciudad (codigo),
+Primary key (ident_num)
+);
+
+CREATE TABLE Prueba 
+(
+Id int not null,
+Fecha_creacion date not null,
+Primary key (id)
+);
+CREATE TABLE EstudiantePrueba
+(
+Id int auto_increment not null,
+Ident_num_estud varchar(15) not null,
+id_prueba int not null,
+constraint ident_num_estud foreign key (ident_num_estud) references Estudiante (ident_num),
+constraint id_prueba foreign key (id_prueba) references Prueba (id),
+primary key (id)
+)
+CREATE TABLE Enunciado 
+(
+Id int auto_increment not null,
+Titulo varchar (300) not null,
+Descripcion varchar (7000) not null,
+Grafica varchar (300) null,
+Primary key (id)
+);
+CREATE TABLE Competencias
+(
+Id int not null,
+Nombre varchar(30) not null,
+Descripción varchar (1000) not null,
+Primary key (id)
+);
+CREATE TABLE Pregunta
+(
+Id int auto_increment not null,
+num_pregunta int not null,
+Descripcion varchar (1000) not null,
+Fotografia varchar (300)  null,
+idCompetencia int not null,
+Id_Enunciado int not null,
+Constraint idCompetencia foreign key (idCompetencia) references Competencias (id),
+Constraint id_enunciado foreign key (id_enunciado) references Enunciado (id),
+Primary key (id)
+);
+CREATE TABLE PruebaPreguntas
+(
+Id int auto_increment not null,
+IdPrueba int not null,
+IdPregunta int not null,
+Constraint IdPrueba foreign key (IdPrueba) references Prueba (id),
+Constraint IdPregunta foreign key (IdPregunta) references Pregunta (id),
+Primary key (id)
+);
+
+
+CREATE TABLE Opciones
+(
+Id int  auto_increment not null,
+Descripcion varchar (2000) not null,
+Primary key (id)
+);
+
+CREATE TABLE PreguntaOpciones
+(
+Id int auto_increment not null,
+Opc_correcta bit not null,
+Id_Pregunta int not null,
+Id_Opciones int not null,
+constraint id_Pregunta foreign key (id_Pregunta) references Pregunta (id),
+constraint id_Opciones foreign key (id_Opciones) references Opciones (id),
+primary key (id)
+);
+
+CREATE TABLE EstudiantePregunta
+(
+Id int auto_increment not null,
+Opc_estudiante int not null,
+Ident_Estud varchar (15) not null,
+IdPregunta int not null,
+Constraint foreign key (Ident_Estud) references Estudiante (ident_num),
+constraint foreign key (IdPregunta) references Pregunta (id),
+primary key (id)
+);
+
+
+
+
